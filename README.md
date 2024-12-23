@@ -3,7 +3,9 @@ This project is part of my SQL Assignment 1 for Mastering in Full Stack Data Ana
 
 # Files in This Repository
 1.Marvel_Movies_Dataset.csv: The dataset used for the analysis.
+
 2.Assignment1_SQL_Queries.sql: Contains all the SQL queries written for this assignment.
+
 3.Analysis_Results.txt: A summary of the key insights obtained from the dataset.
 
 # Conclusion
